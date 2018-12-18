@@ -1,7 +1,7 @@
 
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
 
-var states = ['NY', 'NJ', 'PA']
+var num = [1]
 function addElementToBeginningOfArray(array, element){
-  return states.unshift('foo')
+  return num.unshift('foo')
 }
