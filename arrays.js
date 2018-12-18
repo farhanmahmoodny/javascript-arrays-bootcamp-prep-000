@@ -7,6 +7,7 @@ var ingredient5 = 'tomato'
 var ingredient6 = 'garlic'
 
 var chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles']
+console.log(chocolateBars)
 
 var superheroines = ['catwoman', 'she-hulk', 'mystique']
 superheroines.push('wonder woman')
