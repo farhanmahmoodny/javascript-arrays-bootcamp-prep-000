@@ -7,4 +7,3 @@ function addElementToBeginningOfArray(array, element){
   ['foo', ...num]
   return num
 }
-addElementToBeginningOfArray(num, elem)
