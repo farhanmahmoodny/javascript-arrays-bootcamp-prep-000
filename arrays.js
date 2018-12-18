@@ -60,3 +60,7 @@ function destructivelyRemoveElementFromEndOfArray(){
 function removeElementFromEndOfArray(){
   return iceCreams.slice(0, .length - 1)
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8e6a954ad95759222bfac7b49f0c98fdc410abae
