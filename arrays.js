@@ -1,4 +1,7 @@
 
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
 
-var addElementToBeginningOfArray = ['NY', 'NJ', 'PA']
+var states = ['NY', 'NJ', 'PA']
+function addElementToBeginningOfArray(array, element){
+  
+}
